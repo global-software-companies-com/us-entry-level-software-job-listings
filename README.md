@@ -6,6 +6,8 @@ Research by **Global Software Companies**. Version **2026-10-12b**.
 
 Documentation, downloads and citation: [www.globalsoftwarecompanies.com/research-data/#software-job-listings-dataset](https://www.globalsoftwarecompanies.com/research-data/#software-job-listings-dataset). Used in: [Do You Need a Degree for an Entry-Level Software Job? We Checked 2,517 Listings](https://www.globalsoftwarecompanies.com/do-you-need-a-degree-entry-level-software-jobs/).
 
+Also available on [Zenodo](https://doi.org/10.5281/zenodo.23917034), [Kaggle](https://www.kaggle.com/datasets/globalsoftwarecompan/us-entry-level-software-job-listings) and [Hugging Face](https://huggingface.co/datasets/GlobalSoftwareCompanies/us-entry-level-software-job-listings).
+
 Annotations of selected US-labeled LinkedIn software job listings posted from January to August 2026: experience, skills, AI use, applicant projects, education, training, working conditions, hiring assessments and named technologies.
 
 `jobs.csv` contains **2,518 listing records** and 75 columns: **2,517 retained for US analysis** and one excluded record with conflicting country information. `technologies.csv` contains **32,271 technology mentions** and five columns. Select `inclusion_status=retained`, then join technologies on `job_id`. Count distinct listings when measuring how often a technology appears; a listing can name the same technology in more than one context.
