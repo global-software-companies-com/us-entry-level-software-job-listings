@@ -1,5 +1,7 @@
 # US entry-labeled software job listings
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23917034.svg)](https://doi.org/10.5281/zenodo.23917034)
+
 Research by **Global Software Companies**. Version **2026-10-12b**.
 
 Documentation, downloads and citation: [www.globalsoftwarecompanies.com/research-data/#software-job-listings-dataset](https://www.globalsoftwarecompanies.com/research-data/#software-job-listings-dataset). Used in: [Do You Need a Degree for an Entry-Level Software Job? We Checked 2,517 Listings](https://www.globalsoftwarecompanies.com/do-you-need-a-degree-entry-level-software-jobs/).
@@ -30,6 +32,6 @@ The [field guide](FIELD-GUIDE.md) defines every column and the structured cells.
 
 The GSC contribution is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), allowing reuse, adaptation and redistribution, including commercially, with attribution. See [LICENSE.md](LICENSE.md).
 
-> Global Software Companies (2026). *US entry-labeled software job listings*. Version 2026-10-12b. https://www.globalsoftwarecompanies.com/research-data/#software-job-listings-dataset. CC BY 4.0.
+> Global Software Companies (2026). *US entry-labeled software job listings*. Version 2026-10-12b. https://doi.org/10.5281/zenodo.23917034. Documentation: https://www.globalsoftwarecompanies.com/research-data/#software-job-listings-dataset. CC BY 4.0.
 
 Credit Global Software Companies, preferably linking [the dataset's page](https://www.globalsoftwarecompanies.com/research-data/#software-job-listings-dataset); retain the license notice and identify modifications.

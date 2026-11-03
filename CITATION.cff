@@ -7,6 +7,7 @@ authors:
   - name: "Global Software Companies"
     website: "https://www.globalsoftwarecompanies.com/"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.23917034"
 url: "https://www.globalsoftwarecompanies.com/research-data/#software-job-listings-dataset"
 repository-code: "https://github.com/global-software-companies-com/us-entry-level-software-job-listings"
 keywords:
