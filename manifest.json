@@ -1,0 +1,37 @@
+{
+  "dataset": "jobs",
+  "title": "US entry-labeled software job listings",
+  "version": "2026-10-12b",
+  "publisher": "Global Software Companies",
+  "publisher_url": "https://www.globalsoftwarecompanies.com/",
+  "license": "CC-BY-4.0",
+  "license_scope": "GSC contribution; linked source originals excluded",
+  "files": {
+    "jobs.csv": {
+      "sha256": "73bc4a30606e6ee66a150f3a1331dc0c3fd05c3bcbc7a4e70f0102b20b0fd6bf",
+      "rows": 2518,
+      "columns": 75
+    },
+    "technologies.csv": {
+      "sha256": "a6cfe5adcec91bf70bbdacccae045a6b486f2551371a1067c4ca70d5fbb70b5c",
+      "rows": 32271,
+      "columns": 5
+    },
+    "FIELD-GUIDE.md": {
+      "sha256": "6b280652eaf8b896625f3f3017c359cc86d885406638219aac074d7d1c425b8a"
+    },
+    "REPRODUCE.md": {
+      "sha256": "a268b09011d5e60b8813624f035e7df0e80ae4dd9cd3734e38a2fd9b6d197ef2"
+    },
+    "reproduce.py": {
+      "sha256": "958e38769544ea79504229a7a1ec84588b8e8b8bbcc8f3b6a2ddcb2a671bd06f"
+    },
+    "LICENSE.md": {
+      "sha256": "ae1eb561974684c95f451aa6d8275d72ab95fcf3fd35a5e9357ce91fbd7fca43"
+    },
+    "README.md": {
+      "sha256": "57b407a678eb7803c308536bd5452e9c134d4d79aa61aead8ce14553acd4f5de"
+    }
+  },
+  "documentation_url": "https://www.globalsoftwarecompanies.com/research-data/#software-job-listings-dataset"
+}
